@@ -2,15 +2,13 @@
     "id": "org.myexampleaddon",
     "version": "1.0.0",
     "name": "Sinhronizovani crtaći",
-    "types": [ "movie" ],
-    "catalogs": [ { "type": "movie", "id": "catalog" } ],
-    "resources": [
-        "catalog",
-        {
-            "name": "stream",
-            "types": [ "movie" ],
-            "idPrefixes": [ "movie" ]
-        }
-    ]
+  "resources": ["catalog", "meta", "stream"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "catalog",
+      "name": "stream"
+    }
+  ]
 }
-
