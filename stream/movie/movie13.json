@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "Url": "www.google.com"
+      "url": "www.google.com"
     }
   ]
 }
