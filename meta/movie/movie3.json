@@ -1,1 +1,7 @@
-e
+{
+  "meta": {
+    "id": "movie2",
+    "name": "Balto 2",
+    "type": "movie"
+  }
+}
