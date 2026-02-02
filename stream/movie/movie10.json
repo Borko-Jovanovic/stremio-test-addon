@@ -1,10 +1,7 @@
 {
   "streams": [
     {
-      "url": "https://vd437.okcdn.ru/?expires=1769846640693&srcIp=20.61.126.211&pr=10&srcAg=CHROME&ms=45.136.21.36&type=5&sig=Hx3hwPP9EEY&ct=0&urls=95.163.35.35&clientType=0&zs=43&id=5979286931978"
-      "behaviorHints": {
-        "notWebReady": "true"
-                }
+      "externalUrl": "https://ok.ru/videoembed/7044225370634#__youtubedl_smuggle=%7B%22referrer%22%3A+%22https%3A%2F%2Fgledajcrtace.org%2Fbarbi-fairytopia-2-sirenija-07-film-2006%2F%22%7D&autoplay=1"
     }
   ]
 }
