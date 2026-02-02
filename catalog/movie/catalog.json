@@ -1,218 +1,668 @@
 {
   "metas": [
     {
+      "name": "Alvin i Veverice susreću Vukodlaka (2000) SR",
       "id": "movie1",
-      "name": "movie1",
       "type": "movie"
     },
     {
+      "name": "Avanture gospodina Peabodya i Shermana (2014) HR",
       "id": "movie2",
-      "name": "movie2",
       "type": "movie"
     },
     {
+      "name": "Balto 1 SR Film 1080p",
       "id": "movie3",
-      "name": "movie3",
       "type": "movie"
     },
     {
+      "name": "Balto 2 SR Film",
       "id": "movie4",
-      "name": "movie4",
       "type": "movie"
     },
     {
+      "name": "Balto 3 SR Film",
       "id": "movie5",
-      "name": "movie5",
       "type": "movie"
     },
     {
+      "name": "27 Barbi Biserna princeza SR",
       "id": "movie6",
-      "name": "movie6",
       "type": "movie"
     },
     {
+      "name": "14. Barbie u Božićnoj priči (2008) HR",
       "id": "movie7",
-      "name": "movie7",
       "type": "movie"
     },
     {
+      "name": "06. Barbie i čarolija Pegaza (2005) HR",
       "id": "movie8",
-      "name": "movie8",
       "type": "movie"
     },
     {
+      "name": "00 Barbi Drimtopija SR Specijal",
       "id": "movie9",
-      "name": "movie9",
       "type": "movie"
     },
     {
+      "name": "Barbi Epsko Putovanje (2022, HR)",
       "id": "movie10",
-      "name": "movie10",
       "type": "movie"
     },
     {
+      "name": "05. Barbie Fairytopia (2005) HR",
       "id": "movie11",
-      "name": "movie11",
       "type": "movie"
     },
     {
+      "name": "07. Barbie Fairytopia 2 - Sirenija (2006) HR",
       "id": "movie12",
-      "name": "movie12",
       "type": "movie"
     },
     {
+      "name": "10. Barbie Fairytopia 3 - Čarolija duge (2007) HR",
       "id": "movie13",
-      "name": "movie13",
       "type": "movie"
     },
     {
+      "name": "35 Barbi Heroj iz video igrice SR",
       "id": "movie14",
-      "name": "movie14",
       "type": "movie"
     },
     {
+      "name": "36 Barbi Čarolija delfina SR",
       "id": "movie15",
-      "name": "movie15",
       "type": "movie"
     },
     {
+      "name": "38 Barbi i Čelzi izgubljeni rođendan SR",
       "id": "movie16",
-      "name": "movie16",
       "type": "movie"
     },
     {
+      "name": "13. Barbie i Dijamantni dvorac (2008) HR",
       "id": "movie17",
-      "name": "movie17",
       "type": "movie"
     },
     {
+      "name": "15. Barbie predstavlja Palčicu (2009) HR",
       "id": "movie18",
-      "name": "movie18",
       "type": "movie"
     },
     {
+      "name": "41 Barbi i Skiper - Velika avantura sa čuvanjem dece SR",
       "id": "movie19",
-      "name": "movie19",
       "type": "movie"
     },
     {
+      "name": "42. Barbi i Stejsi Stižu u Pomoć (Studio) SR",
       "id": "movie20",
-      "name": "movie20",
       "type": "movie"
     },
     {
+      "name": "28 Barbi i tajna vrata SR",
       "id": "movie21",
-      "name": "movie21",
       "type": "movie"
     },
     {
+      "name": "43. Barbi i Tereza - Recept za Prijateljstvo (Studio) SR",
       "id": "movie22",
-      "name": "movie22",
       "type": "movie"
     },
     {
+      "name": "25 Barbi Mariposa i vila princeza SR",
       "id": "movie23",
-      "name": "movie23",
       "type": "movie"
     },
     {
+      "name": "02. Barbie kao Matovilka (2002) HR",
       "id": "movie24",
-      "name": "movie24",
       "type": "movie"
     },
     {
+      "name": "12. Barbie Mariposa (2008) HR",
       "id": "movie25",
-      "name": "movie25",
       "type": "movie"
     },
     {
+      "name": "29 Barbi Moćna princeza SR",
       "id": "movie26",
-      "name": "movie26",
       "type": "movie"
     },
     {
+      "name": "18 Barbi Modna bajka SR",
       "id": "movie27",
-      "name": "movie27",
       "type": "movie"
     },
     {
+      "name": "03. Barbie na Labuđem jezeru (2003) HR",
       "id": "movie28",
-      "name": "movie28",
       "type": "movie"
     },
     {
+      "name": "23 Barbi princeza i pop zvezda SR",
       "id": "movie29",
-      "name": "movie29",
       "type": "movie"
     },
     {
+      "name": "04. Barbie - Princeza i sirotica (2004) HR",
       "id": "movie30",
-      "name": "movie30",
       "type": "movie"
     },
     {
+      "name": "11. Barbie kao princeza s otoka (2007) HR",
       "id": "movie31",
-      "name": "movie31",
       "type": "movie"
     },
     {
+      "name": "37 Barbi princezina avantura SR",
       "id": "movie32",
-      "name": "movie32",
       "type": "movie"
     },
     {
+      "name": "30 Barbi Rokeri i Kraljevići SR",
       "id": "movie33",
-      "name": "movie33",
       "type": "movie"
     },
     {
+      "name": "21 Barbi Savršen Božić SR",
       "id": "movie34",
-      "name": "movie34",
       "type": "movie"
     },
     {
+      "name": "20 Barbi u školi za princeze SR",
       "id": "movie35",
-      "name": "movie35",
       "type": "movie"
     },
     {
+      "name": "34 Barbi u jurnjavi za kucama SR",
       "id": "movie36",
-      "name": "movie36",
       "type": "movie"
     },
     {
+      "name": "01. Barbie u Krcko Oraščiću (2001) HR",
       "id": "movie37",
-      "name": "movie37",
       "type": "movie"
     },
     {
+      "name": "26 Barbi u priči o konjima SR",
       "id": "movie38",
-      "name": "movie38",
       "type": "movie"
     },
     {
+      "name": "22 Barbi Tajna morske dubine 2 SR",
       "id": "movie39",
-      "name": "movie39",
       "type": "movie"
     },
     {
+      "name": "24 Barbi u ružičastim cipelama SR",
       "id": "movie40",
-      "name": "movie40",
       "type": "movie"
     },
     {
+      "name": "32 Barbi u špijunskoj družini SR",
       "id": "movie41",
-      "name": "movie41",
       "type": "movie"
     },
     {
+      "name": "19 Barbi u svetu vila SR",
       "id": "movie42",
-      "name": "movie42",
       "type": "movie"
     },
     {
+      "name": "31 Barbi u velikoj avanturi sa kucama SR",
       "id": "movie43",
-      "name": "movie43",
+      "type": "movie"
+    },
+    {
+      "name": "39 Barbi Veliki grad, veliki snovi SR",
+      "id": "movie44",
+      "type": "movie"
+    },
+    {
+      "name": "33 Barbi Zvezdana pustolovina SR",
+      "id": "movie45",
+      "type": "movie"
+    },
+    {
+      "name": "09. Barbie i dvanaest rasplesanih princeza (2006) HR",
+      "id": "movie46",
+      "type": "movie"
+    },
+    {
+      "name": "16. Barbie i tri mušketira (2009) HR",
+      "id": "movie47",
+      "type": "movie"
+    },
+    {
+      "name": "17. Barbie u priči o sireni (2010) HR",
+      "id": "movie48",
+      "type": "movie"
+    },
+    {
+      "name": "08. Barbieni dnevnici (2006) HR",
+      "id": "movie49",
+      "type": "movie"
+    },
+    {
+      "name": "00 Barbi Drimtopija Festival zabave SR Specijal",
+      "id": "movie50",
+      "type": "movie"
+    },
+    {
+      "name": "Biblijske price 07 (2003) Apostoli 720p DVDrip (SR)",
+      "id": "movie51",
+      "type": "movie"
+    },
+    {
+      "name": "Biblijske price 09 (2003) Danilo medju lavovima 720p DVDrip (SR)",
+      "id": "movie52",
+      "type": "movie"
+    },
+    {
+      "name": "Biblijske price 02 (2003) David i Golijat 720p DVDrip (SR)",
+      "id": "movie53",
+      "type": "movie"
+    },
+    {
+      "name": "Biblijske price 11 (2003) Hristova cuda 720p DVDrip (SR)",
+      "id": "movie54",
+      "type": "movie"
+    },
+    {
+      "name": "Biblijske price 05 (2003) Josif i sareni kaput 720p DVDrip (SR)",
+      "id": "movie55",
+      "type": "movie"
+    },
+    {
+      "name": "Biblijske price 06 (2003) Prica o Mojsiju 720p DVDrip (SR)",
+      "id": "movie56",
+      "type": "movie"
+    },
+    {
+      "name": "Biblijske price 08 (2003) Prorok Josije i bitka kod Jerihona 720p DVDrip (SR)",
+      "id": "movie57",
+      "type": "movie"
+    },
+    {
+      "name": "Biblijske price 01 (2003) Rajski vrt 720p DVDrip (SR)",
+      "id": "movie58",
+      "type": "movie"
+    },
+    {
+      "name": "Biblijske price 13 (2003) Rodjenje Isusovo 720p DVDrip (SR)",
+      "id": "movie59",
+      "type": "movie"
+    },
+    {
+      "name": "Biblijske price 03 (2003) Samson i Dalila 720p DVDrip (SR)",
+      "id": "movie60",
+      "type": "movie"
+    },
+    {
+      "name": "Biblijske price 04 (2003) Sodoma i Gomora 720p DVDrip (SR)",
+      "id": "movie61",
+      "type": "movie"
+    },
+    {
+      "name": "Biblijske price 12 (2003) Tajna veceta 720p DVDrip (SR)",
+      "id": "movie62",
+      "type": "movie"
+    },
+    {
+      "name": "Božićna snjeguljica (1980) SR",
+      "id": "movie63",
+      "type": "movie"
+    },
+    {
+      "name": "Čudesna Šuma (1986) HR 720",
+      "id": "movie64",
+      "type": "movie"
+    },
+    {
+      "name": "Čudesna Šuma 2 Čarobnjakov šešir (1990) HR",
+      "id": "movie65",
+      "type": "movie"
+    },
+    {
+      "name": "Emili Žoli (2011) SR",
+      "id": "movie66",
+      "type": "movie"
+    },
+    {
+      "name": "Fabrika snova 2020 SR 1080p",
+      "id": "movie67",
+      "type": "movie"
+    },
+    {
+      "name": "Fantastično putovanje u Oz 2017 SR 1080p",
+      "id": "movie68",
+      "type": "movie"
+    },
+    {
+      "name": "Duško Dugouško i Ptica Trkačica (1979) SR",
+      "id": "movie69",
+      "type": "movie"
+    },
+    {
+      "name": "Film o nogometu  (2022) HR",
+      "id": "movie70",
+      "type": "movie"
+    },
+    {
+      "name": "Garfild 2 - Priča o dve mace 2006 SR-HR 1080p",
+      "id": "movie71",
+      "type": "movie"
+    },
+    {
+      "name": "Hrabra družina i šifra Marka Pola HR",
+      "id": "movie72",
+      "type": "movie"
+    },
+    {
+      "name": "Hrabri Pero - Valiant 2005 HR 1080p",
+      "id": "movie73",
+      "type": "movie"
+    },
+    {
+      "name": "Hrabri Petao 2015 SR-HR 1080p",
+      "id": "movie74",
+      "type": "movie"
+    },
+    {
+      "name": "Kralj i ptica (1980)SR",
+      "id": "movie75",
+      "type": "movie"
+    },
+    {
+      "name": "Legenda o Parvi - The Legend of Princess Parva (2003) SR",
+      "id": "movie76",
+      "type": "movie"
+    },
+    {
+      "name": "Leo Da Vinči - Misija Mona Lisa 2018 SR-HR 1080p",
+      "id": "movie77",
+      "type": "movie"
+    },
+    {
+      "name": "Lepotica i zver 2 - Začarani Božić 1997 SR 1080p",
+      "id": "movie78",
+      "type": "movie"
+    },
+    {
+      "name": "Mačak Maksim (1986) SR",
+      "id": "movie79",
+      "type": "movie"
+    },
+    {
+      "name": "Mala Lokomotiva (1991, HR)",
+      "id": "movie80",
+      "type": "movie"
+    },
+    {
+      "name": "Mali Šef Božićni Bonus (2022) HR",
+      "id": "movie81",
+      "type": "movie"
+    },
+    {
+      "name": "Mighty Express Utrka moćnih vlakova (2022) HR",
+      "id": "movie82",
+      "type": "movie"
+    },
+    {
+      "name": "Moj Mali Poni Devojke Iz Ekvestrije ( Sr_).mp4",
+      "id": "movie83",
+      "type": "movie"
+    },
+    {
+      "name": "Moj Mali Poni Igre Prijateljstva ( Sr_).mp4",
+      "id": "movie84",
+      "type": "movie"
+    },
+    {
+      "name": "Moj Mali Poni Najbolji Poklon Svih_Vremena ( Sr ).mp4",
+      "id": "movie85",
+      "type": "movie"
+    },
+    {
+      "name": "My Little Pony Nova Generacija (2021) HR.mkv",
+      "id": "movie86",
+      "type": "movie"
+    },
+    {
+      "name": "Moj Mali Poni Otpakovani Praznici ( Sr_).mp4",
+      "id": "movie87",
+      "type": "movie"
+    },
+    {
+      "name": "Moj Mali Poni Pometnja Na Prolecnom_Raspustu ( Sr ).mp4",
+      "id": "movie88",
+      "type": "movie"
+    },
+    {
+      "name": "Moj Mali Poni Princezina Promenada ( H i_S ).mp4",
+      "id": "movie89",
+      "type": "movie"
+    },
+    {
+      "name": "Moj Mali Poni Putovanje Putem Duge ( Sr_).mp4",
+      "id": "movie90",
+      "type": "movie"
+    },
+    {
+      "name": "Moj Mali Poni Rainbow Rocks ( Sr ).mp4",
+      "id": "movie91",
+      "type": "movie"
+    },
+    {
+      "name": "Moj Mali Poni Sansetina Propusnica ( Sr_).mp4",
+      "id": "movie92",
+      "type": "movie"
+    },
+    {
+      "name": "Momo (2001) SR BD4YU",
+      "id": "movie93",
+      "type": "movie"
+    },
+    {
+      "name": "Naruto - Legend Of The Stone Of Gelel [By Musto].mp4",
+      "id": "movie94",
+      "type": "movie"
+    },
+    {
+      "name": "Naruto S Film 5 (By Musto).mp4",
+      "id": "movie95",
+      "type": "movie"
+    },
+    {
+      "name": "Naruto S Film 4 (By Musto).mp4",
+      "id": "movie96",
+      "type": "movie"
+    },
+    {
+      "name": "Naruto S Film 3 (By Musto).mp4",
+      "id": "movie97",
+      "type": "movie"
+    },
+    {
+      "name": "Oliver i druzina 1998.mkv",
+      "id": "movie98",
+      "type": "movie"
+    },
+    {
+      "name": "Pingvini sa Madagaskara (2014) SR",
+      "id": "movie99",
+      "type": "movie"
+    },
+    {
+      "name": "Po02 The Movie 2000 (1999) HR 1080p (By Musto",
+      "id": "movie100",
+      "type": "movie"
+    },
+    {
+      "name": "Po07  (2004) HR 1080p (By Musto)",
+      "id": "movie101",
+      "type": "movie"
+    },
+    {
+      "name": "Po06 (2003) HR 1080p (By Musto)",
+      "id": "movie102",
+      "type": "movie"
+    },
+    {
+      "name": "Po01 (1998) HR 1080p (By Musto)",
+      "id": "movie103",
+      "type": "movie"
+    },
+    {
+      "name": "Priče s tavana (2009) HR",
+      "id": "movie104",
+      "type": "movie"
+    },
+    {
+      "name": "Biblijske price 08 (2003) Prorok Josije i bitka kod Jerihona 720p DVDrip (SR)",
+      "id": "movie105",
+      "type": "movie"
+    },
+    {
+      "name": "Prvi Sneg (1998) SR",
+      "id": "movie106",
+      "type": "movie"
+    },
+    {
+      "name": "Naruto S Film 6 (By Musto).mp4",
+      "id": "movie107",
+      "type": "movie"
+    },
+    {
+      "name": "Sandokan: Tigar sa Kariba (1995) SR",
+      "id": "movie108",
+      "type": "movie"
+    },
+    {
+      "name": "Scooby-Doo! Frankencreepy  Scooby Doo Frankenstraš (2014) Sa prevodom HD",
+      "id": "movie109",
+      "type": "movie"
+    },
+    {
+      "name": "Scooby-Doo! in Where’s My Mummy (2005) Sa prevodom RTL",
+      "id": "movie110",
+      "type": "movie"
+    },
+    {
+      "name": "Scooby Doo i Čudoviste iz Loh Nesa (2004) SR",
+      "id": "movie111",
+      "type": "movie"
+    },
+    {
+      "name": "Scooby Doo i invazija vanzemaljaca (2000) HR",
+      "id": "movie112",
+      "type": "movie"
+    },
+    {
+      "name": "Scooby Doo Legend of the Phantosaur (2011) Sa prevodom RTL",
+      "id": "movie113",
+      "type": "movie"
+    },
+    {
+      "name": "Scooby-Doo! Mask of the Blue Falcon (2012) Sa prevodom",
+      "id": "movie114",
+      "type": "movie"
+    },
+    {
+      "name": "Skubi Du! Muzika vampira  Scooby-Doo! Music of the Vampire (2012) Sa prevodom",
+      "id": "movie115",
+      "type": "movie"
+    },
+    {
+      "name": "Skejterica  Skater Girl (2021) HR",
+      "id": "movie116",
+      "type": "movie"
+    },
+    {
+      "name": "Snjeguljica i Sedam Vitezova (1951) HR",
+      "id": "movie117",
+      "type": "movie"
+    },
+    {
+      "name": "Spasitelji u Australiji / The Rescuers Down Under (1990) Sa prevodom",
+      "id": "movie118",
+      "type": "movie"
+    },
+    {
+      "name": "Šrek 1 2001 HR 1080p",
+      "id": "movie119",
+      "type": "movie"
+    },
+    {
+      "name": "Šrek 3 2007 HR 1080p",
+      "id": "movie120",
+      "type": "movie"
+    },
+    {
+      "name": "Štrumpfovi Legenda o Tajanstvenom Jahaču (2013) HR",
+      "id": "movie121",
+      "type": "movie"
+    },
+    {
+      "name": "Talični Tom Balada o Daltonima 1978 SR 1080p",
+      "id": "movie122",
+      "type": "movie"
+    },
+    {
+      "name": "Lucky Luke Daisy Town (1971) 1080p BRrip SR",
+      "id": "movie123",
+      "type": "movie"
+    },
+    {
+      "name": "Lucky Luke Go West A Lucky Luke Adventure (2007) 1080p BRrip HR",
+      "id": "movie124",
+      "type": "movie"
+    },
+    {
+      "name": "Naruto S Film 7 (By Musto).mp4",
+      "id": "movie125",
+      "type": "movie"
+    },
+    {
+      "name": "Ko je smestio Crvenkapi 2005 SR-HR 1080p",
+      "id": "movie126",
+      "type": "movie"
+    },
+    {
+      "name": "Твитијеве авантуре у високом лету (2000).mkv",
+      "id": "movie127",
+      "type": "movie"
+    },
+    {
+      "name": "Uhvatiti Deda Mraza (2008,SR) 576p",
+      "id": "movie128",
+      "type": "movie"
+    },
+    {
+      "name": "Winx Club - Tajna izgubljenog kraljevstva (2007) HR 1080p",
+      "id": "movie129",
+      "type": "movie"
+    },
+    {
+      "name": "Vuk - The Little Fox (1981) HR",
+      "id": "movie130",
+      "type": "movie"
+    },
+    {
+      "name": "WALL-E 2008 HR 1080p (by musto)",
+      "id": "movie131",
+      "type": "movie"
+    },
+    {
+      "name": "Winx Club Čarobna avantura (2010) HR",
+      "id": "movie132",
+      "type": "movie"
+    },
+    {
+      "name": "Yu-gi_Oh_Film.mp4",
+      "id": "movie133",
       "type": "movie"
     }
   ]
