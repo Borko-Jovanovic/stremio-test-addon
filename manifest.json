@@ -8,7 +8,12 @@
     {
       "type": "movie",
       "id": "catalog",
-      "name": "stream"
+      "name": "Sinhonizovani crtaći - 1"
+    },
+    {
+      "type": "movie",
+      "id": "catalog-new",
+      "name": "Sinhonizovani crtaći - 2"
     }
   ]
 }
