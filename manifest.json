@@ -1,10 +1,15 @@
 {
     "id": "org.myexampleaddon",
-    "version": "1.0.0",
+    "version": "1.0.0-a1",
     "name": "Sinhronizovani crtaći",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
   "catalogs": [
+    {
+      "type": "movie",
+      "id": "catalog-tt",
+      "name": "Sinhonizovani crtaći"
+    },
     {
       "type": "movie",
       "id": "catalog",
