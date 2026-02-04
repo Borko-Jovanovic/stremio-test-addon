@@ -8,7 +8,8 @@
     {
       "type": "movie",
       "id": "catalog-tt",
-      "name": "Sinhonizovani crtaći"
+      "name": "Sinhonizovani crtaći",
+      "idPrefixes": [ "tt" ]
     },
     {
       "type": "movie",
