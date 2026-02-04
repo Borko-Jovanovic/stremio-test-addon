@@ -4,6 +4,7 @@
     "name": "Sinhronizovani crtaći",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
+  "idPrefixes": ["tt"],
   "catalogs": [
     {
       "type": "movie",
