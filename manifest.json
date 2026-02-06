@@ -19,8 +19,8 @@
     },
     {
       "type": "movie",
-      "id": "catalog-new",
-      "name": "Sinhonizovani crtaći - 2"
+      "id": "catalog-test",
+      "name": "Test"
     }
   ]
 }

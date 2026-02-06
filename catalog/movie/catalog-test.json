@@ -1,0 +1,9 @@
+{
+  "metas": [
+    {
+      "name": "Test yt-dlp 1",
+      "id": "ytdlp",
+      "type": "movie"
+    }
+  ]
+}
