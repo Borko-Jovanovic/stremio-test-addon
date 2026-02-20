@@ -8,9 +8,8 @@
 <body>
 <script>
 (async () => {
-    // Read ?url=...
     const params = new URLSearchParams(window.location.search);
-    const apiUrl = params.get("url");
+    const apiUrl = decodeURIComponent(params.get("url") || "");
 
     if (!apiUrl) {
         document.body.innerHTML = "<h3>Missing ?url= parameter.</h3>";
@@ -18,17 +17,14 @@
     }
 
     try {
-        // Fetch JSON
         const response = await fetch(apiUrl);
         const data = await response.json();
-
-        // Extract link
         const target = data?.result?.url;
 
         if (target) {
             window.location.href = target;
         } else {
-            document.body.innerHTML = "<h3>No 'result.url' found in JSON.</h3>";
+            document.body.innerHTML = "<h3>No 'result.url' field found.</h3>";
         }
 
     } catch (err) {
