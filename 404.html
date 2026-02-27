@@ -8,7 +8,7 @@
 <script>
   (async () => {
     try {
-      const res = await fetch('/manifest.json', { cache: 'no-store' });
+      const res = await fetch('https://borko-jovanovic.github.io/stremio-test-addon/manifest.json', { cache: 'no-store' });
       if (!res.ok) throw new Error('manifest fetch failed: ' + res.status);
       const manifest = await res.json();
       document.open('application/json', 'replace');
